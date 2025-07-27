@@ -95,7 +95,7 @@ O aplicativo será aberto automaticamente em seu navegador padrão. Caso contrá
 ## Estrutura dos arquivos do projeto
 
 ```bash
-pdf-chat-groq/
+AskRAG/
 │
 ├── app.py                 # Código principal da aplicação
 ├── uploaded/              # Pasta temporária para PDFs carregados
