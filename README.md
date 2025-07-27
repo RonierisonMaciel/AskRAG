@@ -8,6 +8,12 @@ Este projeto permite realizar perguntas em linguagem natural sobre o conteúdo d
 
 ---
 
+## Captura de tela da aplicação
+
+Abaixo, um exemplo visual da interface após o upload do PDF e uma pergunta realizada:
+
+![Screenshot da aplicação](img/screen.png)
+
 ## Como funciona?
 
 O fluxo básico da aplicação é:
